@@ -26,6 +26,6 @@
 How to post report:
 
 Title: "@patch, @name"
--ex: [3.3.5a] or [4.3.4] Problem witch chat.
+-ex: [3.3.5a] or [4.3.4] Problem with chat.
 
 Description: Description of the error. + log from server or compile programs.
