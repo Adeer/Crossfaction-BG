@@ -1,8 +1,31 @@
-Crossfaction-BG
+#Crossfaction-BG
 ===============
+##WoTLK Version:
+===============
++ Last Update: 18.05.2014
++ 
++ Buy Here:
++ http://emu-devstore.com/Product/Crossfaction-BGs-1151
++ 
++ Bug report:
++ https://github.com/Adeer/Crossfaction-BG/issues
 
-Last Update: 18.05.2014
+##Cataclysm Version:
+===============
++ Last Update: 25.05.2014
++ 
++ Buy Here:
++ Pending approval
++ 
++ Bug report:
++ https://github.com/Adeer/Crossfaction-BG/issues
+ 
 
-Bug report for CFBGs
+##Introduction for bug report
+===============
+How to post report:
 
-http://emu-devstore.com/Product/Crossfaction-BGs-1151
+Title: "@patch, @name"
+-ex: [3.3.5a] or [4.3.4] Problem witch chat.
+
+Description: Description of the error. + log from server or compile programs.
