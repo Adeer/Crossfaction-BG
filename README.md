@@ -15,7 +15,7 @@
 + Last Update: 25.05.2014
 + 
 + Buy Here:
-+ Pending approval
++ http://emu-devstore.com/Product/Crossfaction-BGs-434-111111255
 + 
 + Bug report:
 + https://github.com/Adeer/Crossfaction-BG/issues
