@@ -1,4 +1,4 @@
-# ![logo](https://dl-web.dropbox.com/get/cfbg.png?_subject_uid=287228808&w=AACzHxzwSRsmdl2T4stiXcW9hMpQPZN3CokKnMN9dEsUHQ) Crossfaction Battlegrounds
+# ![logo](http://dev-store.eu/cfbg.png) Crossfaction Battlegrounds
 ===============
 ##WoTLK Version:
 ===============
