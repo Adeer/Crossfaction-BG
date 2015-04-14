@@ -1,8 +1,8 @@
-# ![logo](http://dev-store.eu/cfbg.png) Crossfaction Battlegrounds
+# ![logo](http://dev-store.eu/cfbg.png) Crossfaction Battlegrounds 2
 ===============
 ##WoTLK Version:
 ===============
-+ Last Update: 18.05.2014
++ Last Update: 11.04.2015 (2015-04-11)
 + 
 + Buy Here:
 + http://emu-devstore.com/Product/Crossfaction-BGs-1151
